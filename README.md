@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonathanteasdale
-- 👀 I’m interested in learning more
+- 👀 I’m interested in learning more front-end frameworks
 - 🌱 I’m currently learning full-stack development and design in Webflow/Figma
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me - jonathant94@protonmail.com
 
 <!---

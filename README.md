@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jonathanteasdale
+- 👋 Hi, I’m @jonathanteasdale, front-end and Webflow developer
 - 👀 I’m interested in learning more front-end frameworks
-- 🌱 I’m currently learning full-stack development and design in Webflow/Figma
+- 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me - jonathant94@protonmail.com
 

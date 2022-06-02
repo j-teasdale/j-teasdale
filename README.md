@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonathanteasdale, front-end and Webflow developer
 - 👀 I’m interested in learning more front-end frameworks
 - 🌱 I’m currently learning full-stack development
-- 💞️ I’m looking to collaborate on web dev projects
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me - jonathant94@protonmail.com
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathanteasdale, front-end developer and Webflow specialist
+- 👋 Hi, I’m @jonathanteasdale, junior front-end developer
 - 👀 I’m interested in learning more front-end frameworks
 - 🌱 I’m currently learning front-end development and ux/ui design
 - 💞️ I’m looking to collaborate on front-end projects

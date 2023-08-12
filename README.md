@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jonathanteasdale, junior front-end developer
-- 👀 I’m interested in learning more front-end frameworks
+- 👋 Hi, I’m @jonathanteasdale, junior web developer
+- 👀 I’m interested in learning more javascript
 - 🌱 I’m currently learning front-end development and ux/ui design
-- 💞️ I’m looking to collaborate on front-end projects
+- 💞️ I’m looking to get an entry level developer job
 - 📫 How to reach me - jonathant94@protonmail.com
 
 <!---

@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning more javascript
 - 🌱 I’m currently learning front-end development and ux/ui design
 - 💞️ I’m looking to get an entry level developer job
-- 📫 How to reach me - jonathant94@protonmail.com
 
 <!---
 jonathanteasdale/jonathanteasdale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

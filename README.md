@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathanteasdale, junior web developer
-- 👀 I’m interested in learning more wordpress and javascript
-- 🌱 I’m currently learning front-end development and ux/ui design
+- 👀 I’m interested in learning more wordpress, javascript and GIS development
+- 🌱 I’m currently learning front-end development and GIS development
 - 💞️ I’m looking to get an entry level developer job or apprenticeship
 
 <!---
